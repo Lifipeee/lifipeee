@@ -1,4 +1,5 @@
-## Hello There, I am Fillipe Pinheiro de Oliveirahr{
+## Hello There, I am Fillipe Pinheiro de Oliveira
+hr{
   border-color:#aaa;
   box-sizing:border-box;
   width:100%;  
