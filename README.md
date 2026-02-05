@@ -1,4 +1,8 @@
-## Hello There, I am Fillipe Pinheiro de Oliveira
+## Hello There, I am Fillipe Pinheiro de Oliveirahr{
+  border-color:#aaa;
+  box-sizing:border-box;
+  width:100%;  
+}
 
 ## 🖱️Im in progress of learning and gaining experience!
 <!--
